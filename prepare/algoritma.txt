@@ -1,0 +1,14 @@
+Algoritma Program Perpustakaan Digital
+
+Peminjam 
+algoritma untuk register dan login
+1. Buka website Perpustakaan SMKN 5 Kota Bekasi.
+2. Sudah punya akun? 
+3. Jika belum, buat akun dihalaman registrasi (NIS, nama lengkap, usn, pw).
+4. Tampilkan pop up "Registrasi berhasil" lalu arahkan ke halaman Login.
+5. Jika sudah, input usn & pass.
+6. Tampilkan pop up "Login berhasil".
+7. Peminjam berhasil masuk ke halaman dashboard.
+8. Klik Koleksi Buku.
+9. Buku yang dicari tersedia?
+10. Jika tidak

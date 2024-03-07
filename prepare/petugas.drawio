@@ -1,0 +1,219 @@
+<mxfile host="Electron" modified="2024-03-07T02:13:21.591Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="omI_4uxLY9v5h9g-cHGR" version="23.1.5" type="device">
+  <diagram name="Halaman-1" id="CciCEoQ2M5GDFWtjuzjs">
+    <mxGraphModel dx="3190" dy="1380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zIIlKVIFdq4RHlEshoWV-1" value="Petugas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="840" y="70" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zIIlKVIFdq4RHlEshoWV-2" value="Login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="240" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5ophonfw9Nzy0XL49xBl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zIIlKVIFdq4RHlEshoWV-3" target="5ophonfw9Nzy0XL49xBl-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zIIlKVIFdq4RHlEshoWV-3" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="475" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5ophonfw9Nzy0XL49xBl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="5ophonfw9Nzy0XL49xBl-1" target="5ophonfw9Nzy0XL49xBl-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ophonfw9Nzy0XL49xBl-1" value="Buka website Perpustakaan Digital" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="196" y="545" width="148" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="equU6Bef8GWcnC-KC4BR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5ophonfw9Nzy0XL49xBl-3" target="equU6Bef8GWcnC-KC4BR-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ophonfw9Nzy0XL49xBl-3" value="Input username dan password" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="195.5" y="624.5" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="equU6Bef8GWcnC-KC4BR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="5ophonfw9Nzy0XL49xBl-5" target="equU6Bef8GWcnC-KC4BR-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ophonfw9Nzy0XL49xBl-5" value="Halaman Dashboard&amp;nbsp;&lt;div&gt;Petugas&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="179.75" y="873" width="180.5" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="5ophonfw9Nzy0XL49xBl-12" value="Tambah Buku" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="830" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="equU6Bef8GWcnC-KC4BR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="equU6Bef8GWcnC-KC4BR-1" target="equU6Bef8GWcnC-KC4BR-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="equU6Bef8GWcnC-KC4BR-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="equU6Bef8GWcnC-KC4BR-1" target="equU6Bef8GWcnC-KC4BR-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="equU6Bef8GWcnC-KC4BR-1" value="Validasi&lt;div&gt;data&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;spacingTop=5;" parent="1" vertex="1">
+          <mxGeometry x="228.5" y="695" width="83" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="equU6Bef8GWcnC-KC4BR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="equU6Bef8GWcnC-KC4BR-4" target="5ophonfw9Nzy0XL49xBl-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="75" y="645" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="equU6Bef8GWcnC-KC4BR-4" value="Alert &quot;Username atau Password salah&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="714.5" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="equU6Bef8GWcnC-KC4BR-7" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="270" y="770" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="equU6Bef8GWcnC-KC4BR-8" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="170" y="705" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="equU6Bef8GWcnC-KC4BR-9" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="948" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="equU6Bef8GWcnC-KC4BR-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="equU6Bef8GWcnC-KC4BR-11" target="5ophonfw9Nzy0XL49xBl-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="equU6Bef8GWcnC-KC4BR-11" value="Alert &quot;Berhasil login sebagai petugas&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="173.25" y="805" width="194.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-1" value="1. Mulai.&lt;div&gt;2. Buka website Perpustakaan SMKN 5&lt;/div&gt;&lt;div&gt;3. Input Username dan Password.&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Program akan melakukan validasi data.&lt;/div&gt;&lt;div&gt;5. Jika False, tampilkan &quot;Username atau Password salah&quot;.&lt;/div&gt;&lt;div&gt;6. Jika True, tampilkan &quot;Berhasil login sebagai petugas&quot;.&lt;/div&gt;&lt;div&gt;7. Program akan mengarah ke halaman Dashboard Petugas.&lt;/div&gt;&lt;div&gt;8. Selesai.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="55.5" y="245" width="430" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-2" value="1. Mulai.&lt;div&gt;2. Login untuk masuk ke halaman Dashboard Petugas.&lt;/div&gt;&lt;div&gt;3. Klik &#39;Data Buku&#39; pada bagian navbar program.&lt;/div&gt;&lt;div&gt;4. Ingin tambah buku?&lt;/div&gt;&lt;div&gt;5. Jika False, maka selesai.&lt;/div&gt;&lt;div&gt;6. Jika True, klik tambah.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;7. Input data buku yang akan ditambahkan.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;8. Tampilkan pop up &quot;Buku berhasil ditambahkan&quot;.&lt;/div&gt;&lt;div&gt;9. Selesai&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="695" y="245" width="390" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lcuxNhG26rjDaFKzjVcp-3" target="lcuxNhG26rjDaFKzjVcp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-3" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="463" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lcuxNhG26rjDaFKzjVcp-4" target="lcuxNhG26rjDaFKzjVcp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-4" value="Halaman Dashboard Petugas" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="537.5" width="220" height="45.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lcuxNhG26rjDaFKzjVcp-5" target="lcuxNhG26rjDaFKzjVcp-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-5" value="Klik Data Buku" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="613" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lcuxNhG26rjDaFKzjVcp-6" target="lcuxNhG26rjDaFKzjVcp-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-6" value="Halaman Data Buku" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="795" y="683" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lcuxNhG26rjDaFKzjVcp-7" target="lcuxNhG26rjDaFKzjVcp-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lcuxNhG26rjDaFKzjVcp-7" target="lcuxNhG26rjDaFKzjVcp-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="798" />
+              <mxPoint x="1060" y="1123" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-7" value="Ingin tambah&lt;br&gt;buku?" style="rhombus;whiteSpace=wrap;html=1;spacingTop=7;" vertex="1" parent="1">
+          <mxGeometry x="840" y="753" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lcuxNhG26rjDaFKzjVcp-8" target="lcuxNhG26rjDaFKzjVcp-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-8" value="Klik Tambah" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="873" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lcuxNhG26rjDaFKzjVcp-9" target="lcuxNhG26rjDaFKzjVcp-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-9" value="Input data buku" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="943" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lcuxNhG26rjDaFKzjVcp-16" target="lcuxNhG26rjDaFKzjVcp-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-16" value="Program akan menampilkan pop up&lt;br&gt;&quot;Buku berhasil ditambahkan&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="775" y="1013" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-24" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="1103" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-33" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="885" y="843" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-34" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="955" y="773" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-35" value="Edit Buku" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1495" y="190" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-39" value="1. Mulai.&lt;div&gt;2. Login untuk masuk ke halaman Dashboard Petugas.&lt;/div&gt;&lt;div&gt;3. Klik &#39;Data Buku&#39; pada bagian navbar program.&lt;/div&gt;&lt;div&gt;4. Ingin edit buku?&lt;/div&gt;&lt;div&gt;5. Jika False, maka selesai.&lt;/div&gt;&lt;div&gt;6. Jika True, klik edit pada bagian opsi.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;7. Input data buku yang akan diedit.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;8. Tampilkan pop up &quot;Buku berhasil diedit&quot;.&lt;/div&gt;&lt;div&gt;9. Selesai&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1345" y="245" width="390" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lcuxNhG26rjDaFKzjVcp-41" target="lcuxNhG26rjDaFKzjVcp-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-41" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1452.53" y="467.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lcuxNhG26rjDaFKzjVcp-43" target="lcuxNhG26rjDaFKzjVcp-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-43" value="Halaman Dashboard Petugas" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1402.53" y="542" width="220" height="45.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lcuxNhG26rjDaFKzjVcp-45" target="lcuxNhG26rjDaFKzjVcp-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-45" value="Klik Data Buku" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1442.53" y="617.5" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lcuxNhG26rjDaFKzjVcp-47" target="lcuxNhG26rjDaFKzjVcp-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-47" value="Halaman Data Buku" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1417.53" y="687.5" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lcuxNhG26rjDaFKzjVcp-50" target="lcuxNhG26rjDaFKzjVcp-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lcuxNhG26rjDaFKzjVcp-50" target="lcuxNhG26rjDaFKzjVcp-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1682.53" y="802.5" />
+              <mxPoint x="1682.53" y="1127.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-50" value="Ingin edit&lt;br&gt;buku?" style="rhombus;whiteSpace=wrap;html=1;spacingTop=7;" vertex="1" parent="1">
+          <mxGeometry x="1462.53" y="757.5" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lcuxNhG26rjDaFKzjVcp-52" target="lcuxNhG26rjDaFKzjVcp-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-52" value="Klik edit pada bagian opsi buku" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1418.79" y="877.5" width="187.47" height="35.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lcuxNhG26rjDaFKzjVcp-54" target="lcuxNhG26rjDaFKzjVcp-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-54" value="Input data buku" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1412.53" y="947.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lcuxNhG26rjDaFKzjVcp-56" target="lcuxNhG26rjDaFKzjVcp-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-56" value="Program akan menampilkan pop up&lt;br&gt;&quot;Buku berhasil diedit&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1397.53" y="1017.5" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-57" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1452.53" y="1107.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-58" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1507.53" y="847.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lcuxNhG26rjDaFKzjVcp-59" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1577.53" y="777.5" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
